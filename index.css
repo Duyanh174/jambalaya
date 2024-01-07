@@ -1,5 +1,6 @@
 .turtle{
     color: #A0522D;
+    font-size: 40px;
 }
 .family_image{
     width: 300px;
@@ -13,4 +14,7 @@
 }
 body{
     background-color:#E7D1D8  ;
+}
+.turtles{
+    color: #458B74;
 }
