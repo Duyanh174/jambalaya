@@ -1,9 +1,11 @@
 .turtle{
-    color: #b0d4cd;
+    color: #A0522D;
 }
 .family_image{
-    width: 250px;
-    height: 200px!important;
+    width: 600px;
+    height: 500px!important;
+     border-radius: 8%;
+     cursor: pointer;
 }
 .judy{
     text-align:center;
